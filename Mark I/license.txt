@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mark IV Tank
+* source:	https://sketchfab.com/3d-models/mark-iv-tank-012dab65223f41caa0e7cd507179261c
+* author:	bradacvojtech (https://sketchfab.com/bradacvojtech)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mark IV Tank" (https://sketchfab.com/3d-models/mark-iv-tank-012dab65223f41caa0e7cd507179261c) by bradacvojtech (https://sketchfab.com/bradacvojtech) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
