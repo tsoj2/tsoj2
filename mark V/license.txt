@@ -1,0 +1,11 @@
+Model Information:
+* title:	PSX-style Mark V Landship
+* source:	https://sketchfab.com/3d-models/psx-style-mark-v-landship-a919a9bb23de488582f7dcb80afdf861
+* author:	discreetlyalive (https://sketchfab.com/discreetlyalive)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PSX-style Mark V Landship" (https://sketchfab.com/3d-models/psx-style-mark-v-landship-a919a9bb23de488582f7dcb80afdf861) by discreetlyalive (https://sketchfab.com/discreetlyalive) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
