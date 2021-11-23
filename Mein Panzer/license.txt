@@ -1,0 +1,11 @@
+Model Information:
+* title:	PzKpfw V ausf.G
+* source:	https://sketchfab.com/3d-models/pzkpfw-v-ausfg-f1647dde7e564b43badc0f173559f59f
+* author:	erty546453 (https://sketchfab.com/erty546453)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PzKpfw V ausf.G" (https://sketchfab.com/3d-models/pzkpfw-v-ausfg-f1647dde7e564b43badc0f173559f59f) by erty546453 (https://sketchfab.com/erty546453) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
