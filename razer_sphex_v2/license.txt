@@ -1,0 +1,11 @@
+Model Information:
+* title:	Razer Sphex V2
+* source:	https://sketchfab.com/3d-models/razer-sphex-v2-761131d338f747688107cd88559784af
+* author:	DRoNWiN (https://sketchfab.com/dronwin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Razer Sphex V2" (https://sketchfab.com/3d-models/razer-sphex-v2-761131d338f747688107cd88559784af) by DRoNWiN (https://sketchfab.com/dronwin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
